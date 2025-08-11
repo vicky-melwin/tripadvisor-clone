@@ -1,7 +1,7 @@
 🚀 Just launched my new personal project – TripAdvisor Replica!
 I’ve built a frontend-only replica of the popular travel platform TripAdvisor, designed entirely with HTML and CSS to practice layout design, styling, and responsiveness.
 
-🔗 Live Demo: (Add your GitHub Pages link here)
+🔗 Live Demo: https://vicky-melwin.github.io/tripadvisor-clone/
 
 🎯 Project Highlights:
 
